@@ -1,0 +1,10 @@
+{
+  "source": "Open-Meteo Marine API",
+  "beaches_count": 25,
+  "records_total": 4800,
+  "fetched_at": "2026-06-26T01:29:41.183750",
+  "date_range": {
+    "start": "2026-06-19 00:00:00",
+    "end": "2026-06-26 23:00:00"
+  }
+}
